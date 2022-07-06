@@ -1,0 +1,63 @@
+p {
+    text-align: justify;
+}
+
+form{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+
+.footer{
+    background-color: rgb(255,10,125);
+}
+
+.footer1{
+    text-align: center;
+}
+.footer2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carruseltext{
+    text-align: center;
+    background-color: rgba(6, 0, 5, 0.503);
+    font-size:large;
+}
+
+.carruseltitle{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgba(6, 0, 5, 0.500);
+    color: rgb(230, 238, 238);
+}
+
+.textfooter{
+    color: white;
+    margin-left:1em;
+    margin-right: 1em;
+    text-align: center;
+}
+
+.contacto{
+    background-image: url("img/corazones.png");
+    background-size: cover;
+}
+
+.tituloformulario{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.botones{
+    display: flex;
+    margin-top: 2em;
+    justify-content: center;
+    align-items: center;
+}
